@@ -1,35 +1,87 @@
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Gurkan</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Gurkan -->
+<img alt="Hand Wave" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Gürkan</h2>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Software Engineering at the University of Firat.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at gurkan683@gmail.com I'll try to respond as soon as I can.\
+💡 &nbsp;Passionate about building scalable, user-centric mobile solutions with modern architecture patterns (MVVM, Clean Architecture).\
+🎓 &nbsp;Software Engineering graduate from Fırat University (GPA: 3.39/4.00).\
+🌱 &nbsp;Currently exploring AI integration in mobile apps, FinTech solutions, and advanced Flutter & Jetpack Compose techniques.\
+💼 &nbsp;Former Software Developer at Veripark, specialized in secure mobile banking applications.\
+🚀 &nbsp;Freelance mobile developer working on AI-powered and cutting-edge mobile projects.\
+💬 &nbsp;Open to freelance opportunities, collaborations, and tech discussions about Android, Flutter, and AI.\
+✉️ &nbsp;Reach me at gurkansenturk11@gmail.com - I'll respond as soon as possible!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
+**Mobile Development**
+
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)&nbsp;
+![Jetpack Compose](https://img.shields.io/badge/-Jetpack%20Compose-05122A?style=flat&logo=jetpackcompose&logoColor=4285F4)&nbsp;
+![Android](https://img.shields.io/badge/-Android-05122A?style=flat&logo=android)&nbsp;
+
+**Architecture & Patterns**
+
+![MVVM](https://img.shields.io/badge/-MVVM-05122A?style=flat)&nbsp;
+![Clean Architecture](https://img.shields.io/badge/-Clean%20Architecture-05122A?style=flat)&nbsp;
+![Coroutines](https://img.shields.io/badge/-Coroutines-05122A?style=flat&logo=kotlin)&nbsp;
+![Flow](https://img.shields.io/badge/-Flow-05122A?style=flat&logo=kotlin)&nbsp;
+![Hilt](https://img.shields.io/badge/-Hilt-05122A?style=flat&logo=android)&nbsp;
+
+**Backend & Database**
+
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-05122A?style=flat&logo=springboot)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
+![Room](https://img.shields.io/badge/-Room-05122A?style=flat&logo=android)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+
+**AI & Advanced Tech**
+
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat&logo=openai)&nbsp;
+![ML Kit](https://img.shields.io/badge/-ML%20Kit-05122A?style=flat&logo=google)&nbsp;
+![YOLOv8](https://img.shields.io/badge/-YOLOv8-05122A?style=flat)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+
+**Tools & Others**
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
+
+### 🚀 &nbsp;Featured Projects
+
+🔹 **Binance Trade Assistant** - AI-powered crypto trading app with OpenAI integration (Flutter, Python, Binance API)\
+🔹 **Earthquake Alert System** - Real-time earthquake monitoring with USGS API and Firebase admin panel (Flutter)\
+🔹 **Mobile Recycling Navigator** - AI-based waste classification using TensorFlow & EfficientDet (Kotlin)\
+🔹 **Numa Breath Exercise** - Modern breathing app with Jetpack Compose & RevenueCat (Kotlin)\
+🔹 **OCR & Object Detection App** - Real-time detection using YOLOv8 and Tesseract (Kotlin)
+
+### 💼 &nbsp;Professional Experience
+
+**Freelance Developer** *(Jul 2025 - Present)*\
+Building custom AI-powered mobile solutions for global clients
+
+**Software Developer @ Veripark** *(Jul 2023 - Jul 2025)*\
+Developed secure mobile banking apps used globally with QR/OCR modules
+
+**Software Engineer Intern @ Orion Innovation** *(Sep 2022 - Jan 2023)*\
+Worked on enterprise Android applications with modern tech stack
+
+**Android Developer Intern @ Mobillium** *(Jun 2022 - Sep 2022)*\
+First professional Android development experience
+
+### 📜 &nbsp;Certifications
+
+✅ Jetpack Compose for Android Bootcamp - Techcareer.net (2025)\
+✅ Kotlin Mobile App Development - Patika.dev (2023)\
+✅ CS50's Introduction to Computer Science - Harvard University (2023)\
+✅ Problem Solving - HackerRank (2023)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -43,8 +95,15 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/gurkansenturk/"><img src="https://img.shields.io/badge/-Gurkan%20Senturk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="gurkan683@gmail.com"><img src="https://img.shields.io/badge/-gurkan683@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/gurkansenturk/"><img src="https://img.shields.io/badge/-Gürkan%20Şentürk-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:gurkansenturk11@gmail.com"><img src="https://img.shields.io/badge/-gurkansenturk11@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/gurkansenturk26/"><img src="https://img.shields.io/badge/-@gurkansenturk26-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/gurkansenturk11"><img src="https://img.shields.io/twitter/url?label=%40gurkansenturk11&style=social&url=https%3A%2F%2Ftwitter.com%2Fgurkansenturk11"/></a>
+<a href="https://twitter.com/gurkansenturk11"><img src="https://img.shields.io/badge/-@gurkansenturk11-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://gurkan26.github.io"><img src="https://img.shields.io/badge/-Portfolio-667eea?style=flat&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>💼 Open for freelance opportunities | 🚀 Let's build something amazing together!</i>
 </p>
