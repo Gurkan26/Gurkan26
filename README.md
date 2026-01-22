@@ -5,7 +5,7 @@
 💡 &nbsp;Passionate about building scalable, user-centric mobile solutions with modern architecture patterns (MVVM, Clean Architecture).\
 🎓 &nbsp;Software Engineering graduate from Fırat University (GPA: 3.39/4.00).\
 🌱 &nbsp;Currently exploring AI integration in mobile apps, FinTech solutions, and advanced Flutter & Jetpack Compose techniques.\
-💼 &nbsp;Former Software Developer at Veripark, specialized in secure mobile banking applications.\
+💼 &nbsp;Software Developer, specialized in secure mobile banking applications.\
 🚀 &nbsp;Freelance mobile developer working on AI-powered and cutting-edge mobile projects.\
 💬 &nbsp;Open to freelance opportunities, collaborations, and tech discussions about Android, Flutter, and AI.\
 ✉️ &nbsp;Reach me at gurkansenturk11@gmail.com - I'll respond as soon as possible!
